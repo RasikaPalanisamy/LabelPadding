@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage">
+
+    <ContentPage.Content>
+        <Grid>
+            <Label Text="Maria Anders Ant Fuller Maria Anders Ant Fuller Thomas Hardy Tim Adams Hanna Moos Martin King" 
+                   HeightRequest="50" WidthRequest="250" BackgroundColor="Yellow"
+                   Padding="15" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
